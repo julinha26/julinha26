@@ -1,5 +1,4 @@
 - # Julinha
-- ## editando o perfil
 - 🙋‍♀️ Olá,eu sou a @julinha26
 - 💻 Cursando o 3°ano do ensino médio
 - 👀 Eu estou interessada em programaçaão e como funciona o github
