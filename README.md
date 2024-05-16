@@ -1,6 +1,7 @@
-- # sobre mim
-👍meu email de contato é julia.correa.maia@escola.pr.gov.br
+- # Julinha
 - ## editando o perfil
--  olá, meu nome é @julinha26
-- 👀 eu estou interessada em aprender a programar novas linguagens 
-- 🌱 eu estou aprendendo a programar recentemente a linguagem de javaScript e scratch
+- 🙋‍♀️ Olá,eu sou a @julinha26
+- 💻 Cursando o 3°ano do ensino médio
+- 👀 Eu estou interessada em programaçaão e como funciona o github
+- 🌱 Eu atualmente estou aprendendo HTML & CSS
+- 💞 Pretendo aprender com a comunidade e ajudá-la!
